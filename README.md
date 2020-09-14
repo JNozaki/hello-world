@@ -7,10 +7,10 @@ You can add different levels of headers easily.
 ### Third Level
 #### Fourth Level
 ##### Fifth Level
-For creating **Bold** simply add ** before and after the characters.
-For creating ~~Strikethrough~~ add ~~ around text. Make sure not to leave **any spaces between text and these special characters**
-For creating *italics* simply use * or _ around text
-These can be combined around \_\*\*text\*\*\_ to create _**italic bold**_
+For creating **Bold** simply add ** before and after the characters.\
+For creating ~~Strikethrough~~ add ~~ around text. Make sure not to leave **any spaces between text and these special characters**\
+For creating *italics* simply use * or _ around text\
+These can be combined around \_\*\*text\*\*\_ to create _**italic bold**_\
 ## Lists
 The text in the previous section can be turned into list with bullets or numbers
 ### As bulleted list
@@ -30,7 +30,8 @@ The text in the previous section can be turned into list with bullets or numbers
 - [ ] Task 4 is not complete
 ## Quotes
 Remember:
-> **Markdown** has many flavors. For GitHub readme files, remember to use the related syntax.
+> **Markdown** has many flavors. For GitHub readme files, remember to use the related\
+> syntax.
 ## Tables
 c1|c2|c3
 --|--|--
